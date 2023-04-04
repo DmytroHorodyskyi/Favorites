@@ -24,4 +24,3 @@ Favorites:
 
 ## Usage
 ### Ease to use and intuitive
-<img src="https://github.com/DmytroHorodyskyi/WeatherBrick/blob/dev/ScreenGif.gif" width="200" >
