@@ -24,3 +24,4 @@ Favorites:
 
 ## Usage
 ### Ease to use and intuitive
+<img src="https://github.com/DmytroHorodyskyi/Favorites/blob/main/HomeScreenshot.PNG" width="200" ><img src="https://github.com/DmytroHorodyskyi/Favorites/blob/main/RepositoriesScreenshot.PNG" width="200" ><img src="https://github.com/DmytroHorodyskyi/Favorites/blob/main/FavoritesScreenshot.PNG" width="200" >
